@@ -7,12 +7,12 @@ Este repositório contém códigos voltados para meu portfólio e estudos em **J
 
 ### 🔢 Tipos de Dados
 
-- **Null**: Representa intencionalmente um valor "vazio" ou "inexistente".
+- **Null**: É, intencionalmente, um valor "vazio"/"inexistente".
 - **Undefined**: Valor padrão de variáveis declaradas mas não inicializadas.
-- **Boolean**: Tipo lógico que representa `true` ou `false`.
+- **Boolean**: Tipo lógico --> `true` ou `false`.
 - **Number**: Tipo numérico para inteiros e decimais.
 - **BigInt**: Representa números inteiros muito grandes, além do limite de segurança dos números padrão (`Number.MAX_SAFE_INTEGER`).
-- **String**: Sequência de caracteres usada para representar texto.
+- **String**: Sequência de caracteres p/ representar texto.
 - **Symbol**: Tipo único e imutável usado como identificador exclusivo de propriedades de objetos.
 
 📖 [Referência MDN sobre tipos](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
@@ -21,10 +21,10 @@ Este repositório contém códigos voltados para meu portfólio e estudos em **J
 
 ### ➕ Operadores Aritméticos
 
-- **Soma (`+`)**: Adiciona dois valores.
-- **Subtração (`-`)**: Subtrai um valor do outro.
-- **Multiplicação (`*`)**: Multiplica dois valores.
-- **Divisão (`/`)**: Divide um valor pelo outro.
+- **Soma (`+`)**
+- **Subtração (`-`)**
+- **Multiplicação (`*`)**
+- **Divisão (`/`)**
 
 ---
 
@@ -42,11 +42,11 @@ Palavras que têm significados especiais na linguagem e **não podem ser usadas 
 
 ### 🔁 Estruturas de Controle e Repetição
 
-- **Condicionais**: Controlam o fluxo com base em condições.
+- **Condicionais**: Controlar fluxo com base em condições.
   - `if` / `else`: Executa blocos diferentes dependendo do resultado de uma expressão.
-  - `switch`: Seleciona entre vários blocos com base em um valor.
+  - `switch`: Seleciona entre vários blocos com base em um valor. Muito utilizado para situações de "Menu", dependendo do 'caso'.
 
-- **Laços de repetição**:
+- **Laços de repetição (iteração)**:
   - `for`: Repete um bloco com controle baseado em índice.
   - `forEach`: Executa uma função para cada item de um array.
   - `while`: Executa enquanto a condição for verdadeira.
@@ -54,16 +54,16 @@ Palavras que têm significados especiais na linguagem e **não podem ser usadas 
 
 ---
 
-### ⚙️ Funções Nativas (Built-in)
+### ⚙️ Funções Nativas (Built-in) --> ler documentação do MDN
 
 Funções já incluídas na linguagem, prontas para uso:
 
 - `alert()`: Mostra uma janela de alerta no navegador.
-- `console.log()`: Exibe mensagens no console (útil para debug).
+- `console.log()`: Exibe mensagens no console (útil para debug). É o cw + Tab + Tab do .Net
 - `parseInt()`, `parseFloat()`: Convertem strings para números.
 - `typeof`: Retorna o tipo de uma variável.
 - `isNaN()`: Verifica se um valor **não é um número**.
 
 ---
 
-Sinta-se à vontade para explorar os arquivos, testar os códigos e contribuir com ideias ou melhorias! 🚀
+Sinta-se à vontade para explorar os arquivos, testar os códigos e contribuir com ideias ou melhorias!
