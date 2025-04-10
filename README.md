@@ -1,35 +1,56 @@
-# estudosJavaScript
+# 📚 Estudos em JavaScript
 
-Este repositório contém códigos voltados para os meus estudos em JavaScript, envolvendo um pouquinho de raciocínio lógico, primeiros passos na sintaxe, para que sirva de memorial e ensino para alunos no futuro.
+Este repositório contém códigos voltados para os meus estudos em **JavaScript**, focando no desenvolvimento do raciocínio lógico, nos primeiros passos com a linguagem e sua sintaxe. A ideia é que este conteúdo sirva tanto como um **memorial de aprendizado**, quanto como **material de apoio** para futuros alunos.
 
-## Tipos de dados
-![image](https://github.com/user-attachments/assets/b19b99ff-4264-466e-8a60-6d6593413269)
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types
-* Null
-* Undefined
-* Boolean
-* Number
-* BigInt
-    * The BigInt type is a numeric primitive in JavaScript that can represent integers with arbitrary magnitude. With BigInts, you can safely store and operate on large integers even beyond the safe integer limit (Number.MAX_SAFE_INTEGER) for Numbers.
-* String
-* Symbol
+---
 
-## Operadores
+## 🧠 Conceitos Abordados
 
-* Aritméticos
-    * Soma (+): `a + b`
-    * Subtração (-): `a - b`
-    * Divisão (/): `a / b`
-    * Multiplicação (*): `a * b` 
+### 🔢 Tipos de Dados
 
-## Palavras reservadas
+- `Null`
+- `Undefined`
+- `Boolean`
+- `Number`
+- `BigInt`  
+  > O tipo `BigInt` é uma primitiva numérica que permite representar inteiros de magnitude arbitrária. Com ele, é possível trabalhar com números maiores que o limite seguro de `Number` (`Number.MAX_SAFE_INTEGER`).
+- `String`
+- `Symbol`
 
-## Estruturas de decisão e controle
+📖 [Referência MDN sobre tipos](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
 
-## Estruturas de repetição, looping
-*FOR
-*FOREACH
-*DOWHILE
-*WHILE
+---
 
-## Built-in functions
+### ➕ Operadores Aritméticos
+
+- **Soma**: `a + b`
+- **Subtração**: `a - b`
+- **Divisão**: `a / b`
+- **Multiplicação**: `a * b`
+
+---
+
+### 🔑 Palavras Reservadas
+
+Inclui palavras como `var`, `let`, `const`, `function`, `return`, `if`, `else`, entre outras que têm significados específicos na linguagem.
+
+---
+
+### 🔁 Estruturas de Controle e Repetição
+
+- Condicionais: `if`, `else`, `switch`
+- Laços:
+  - `for`
+  - `forEach`
+  - `while`
+  - `do...while`
+
+---
+
+### 🛠️ Funções Nativas (Built-in)
+
+Exemplos de funções integradas da linguagem que são amplamente utilizadas no dia a dia do desenvolvimento.
+
+---
+
+Sinta-se à vontade para explorar, testar e contribuir com melhorias! 🚀
