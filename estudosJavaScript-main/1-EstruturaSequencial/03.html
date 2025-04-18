@@ -6,13 +6,11 @@
 </head>
 <body>
   <script>
-let nota1 = prompt("Digite a primeira nota, boyzinho:");
-let nota2 = prompt("Digite a segunda nota, boyzinho:");
-let nota3 = prompt("Digite a terceira nota, boyzinho:");
-let nota4 = prompt("Digite a quarta nota, boyzinho:");
+let valorEmMetros = prompt("Digite a primeira medida, boyzinho:");
 
-let mediaAritmetica = (Number (nota1) + Number(nota2) + Number (nota3) + Number(nota4))/4;
-alert("A média aritmética das notas informadas é" + mediaAritmetica)
+let converteParaDecimetro = Number(valorEmMetros) * 3.6 ;
+let converteParaCentimetro = Number(converteParaDecimetro) *3.6;
+alert("De metros, a medida em centímetros é: " + converteParaCentimetro)
 
   </script>
 </body>
