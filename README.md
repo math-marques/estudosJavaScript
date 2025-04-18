@@ -3,9 +3,9 @@
 Este repositório contém códigos voltados para meu portfólio e estudos em **JavaScript**, focando nos primeiros passos com a linguagem e sua sintaxe. A ideia é que este conteúdo sirva tanto como um **memorial de aprendizado**, quanto como **material de apoio** para aulas.
 ---
 
-## 🧠 Conceitos Abordados
+##  Conceitos Abordados
 
-### 🔢 Tipos de Dados
+###  Tipos de Dados
 
 - **Null**: É, intencionalmente, um valor "vazio"/"inexistente".
 - **Undefined**: Valor padrão de variáveis declaradas mas não inicializadas.
@@ -19,7 +19,7 @@ Este repositório contém códigos voltados para meu portfólio e estudos em **J
 
 ---
 
-### ➕ Operadores Aritméticos
+###  Operadores Aritméticos
 
 - **Soma (`+`)**
 - **Subtração (`-`)**
@@ -28,7 +28,7 @@ Este repositório contém códigos voltados para meu portfólio e estudos em **J
 
 ---
 
-### 🔑 Palavras Reservadas
+###  Palavras Reservadas
 
 Palavras que têm significados especiais na linguagem e **não podem ser usadas como nomes de variáveis ou funções**, como:
 
@@ -54,7 +54,7 @@ Palavras que têm significados especiais na linguagem e **não podem ser usadas 
 
 ---
 
-### ⚙️ Funções Nativas (Built-in) --> ler documentação do MDN
+### ⚙ Funções Nativas (Built-in) --> ler documentação do MDN
 
 Funções já incluídas na linguagem, prontas para uso:
 
