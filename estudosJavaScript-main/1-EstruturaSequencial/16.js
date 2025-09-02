@@ -3,7 +3,7 @@ const capacidadeLata = 18; // 18 litros por lata
 const precoLata = 80.00; // R$ 80,00 por lata
 
 const area = parseFloat(prompt
-    ("Informe o tamanho da área a ser pintada em metros quadrados:"));
+    ("Informe o tamanho da área a ser pintada em metros quadrados, por gentileza:"));
 
 const litrosNecessarios = area / coberturaPorLitro;
 const latasNecessarias = Math.ceil(litrosNecessarios / capacidadeLata); 
