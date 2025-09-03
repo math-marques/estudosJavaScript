@@ -25,6 +25,7 @@ Este repositório contém códigos voltados para meu portfólio e estudos em **J
 - **Subtração (`-`)**
 - **Multiplicação (`*`)**
 - **Divisão (`/`)**
+DESAFIO: como resolver raiz quadrada, potencia, módulo, exponecial...
 
 ---
 
